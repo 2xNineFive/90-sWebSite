@@ -1,0 +1,13 @@
+div.bioBlock{
+height: 250px;
+width: 100%;
+background-color: red;
+} 
+
+#bioNameTitle {
+    position: absolute;
+    top: 5px;
+    left: 500px;
+    font-size: 100px;
+
+}
